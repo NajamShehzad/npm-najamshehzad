@@ -1,0 +1,33 @@
+{
+  "name": "najamshehzad",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "bin": {
+    "najamshehzad": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najamshehzad/npm-najamshehzad.git"
+  },
+  "keywords": [
+    "najamshehzad",
+    "najam shehzad",
+    "business card",
+    "e-card"
+  ],
+  "author": "Najam Shehzad <najambutt195@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/najamshehzad/npm-najamshehzad/issues"
+  },
+  "homepage": "https://github.com/najamshehzad/npm-najamshehzad#readme",
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "nodemon": "^3.1.0",
+    "table-layout": "^3.0.2"
+  }
+}
