@@ -5,7 +5,7 @@ const {
   blueBright
 } = require("colorette");
 
-const work = white(`Software Engineer`)
+const work = white(`Senior Software Engineer`)
 // const gde = `${blueBright('Google Developers Expert in Angular')}`
 const twitter = blueBright('https://twitter.com/NajamShehzad_B')
 const linkedIn = blueBright('https://www.linkedin.com/in/najamshehzadbutt')
